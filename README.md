@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soxand16)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **soxand16/soxand16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
